@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-graphs-2C7FB8)
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
 ---
 
